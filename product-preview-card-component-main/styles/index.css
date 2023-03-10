@@ -28,8 +28,10 @@ body{
     border-radius: 10px;
     background-color: var(--White);
 }
-.product-container img{
+.product-container picture img{
     width: 100%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
 }
 
 .product-details{
